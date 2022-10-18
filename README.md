@@ -5,6 +5,8 @@
 
 ## LANGKAH 1
 MEMBUAT STRUKTUR DASAR PEMBUATAN LIST
+![list](https://user-images.githubusercontent.com/94009296/196316641-39cabd1f-4cf8-4ea2-b95f-36ab6d12aa19.png)
+
 
 ## LANGKAH 2
 MEMBUAT STRUKTUR DASAR PEMBUATAN TABEL
