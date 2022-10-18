@@ -26,3 +26,6 @@ PERUBAHAN KE-2 PADA LIST
 ![list 2](https://user-images.githubusercontent.com/94009296/196317579-487c1ea3-ac6c-4552-bde7-8e38dc2a00ba.png)
 PERUBAHAN KE-3 PADA LIST
 ![list 3](https://user-images.githubusercontent.com/94009296/196318122-fe1409b6-4868-410b-8fb7-48b07761b522.png)
+
+PERUBAHAN KE-2 PADA TABEL
+![table 2](https://user-images.githubusercontent.com/94009296/196319213-73351dfb-33a9-4791-9d8f-9624a52ccbb7.png)
